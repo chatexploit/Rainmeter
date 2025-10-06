@@ -1,8 +1,8 @@
 <?php
-$host = "sql305.ezyro.com";
-$user = "ezyro_40069215"; 
-$pass = "51b8aa1eb0f6b9"; 
-$dbname = "ezyro_40069215_rainmeter";
+$host = "HOSTNAME";
+$user = "USERNAME"; 
+$pass = "PASSWORD"; 
+$dbname = "DATABASE NAME";
 
 $conn = new mysqli($host, $user, $pass, $dbname);
 if ($conn->connect_error) {
