@@ -21,4 +21,4 @@ It allows you to log your rain gauge readings, visualize trends with charts, exp
 ## 🚀 Getting Started
 1. Clone this repository  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Rainmeter.git
+   git clone https://github.com/chatexploit/Rainmeter.git
